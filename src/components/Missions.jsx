@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import Title from './Title';
+import missions from '../data/missions';
+import MissionCard from './MissionCard';
 
 class Missions extends Component {
   render() {
@@ -8,6 +10,15 @@ class Missions extends Component {
         <Title
           headline="Missões"
         />
+        {
+          missions.map((mission, i) => (<MissionCard
+            key={ i }
+            name={ mission.name }
+            year={ mission.year }
+            country={ mission.country }
+            destination={ mission.destination }
+          />))
+        }
       </div>
     );
   }
