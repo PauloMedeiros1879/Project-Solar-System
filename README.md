@@ -1,12 +1,33 @@
 # Projeto System Solar
+###### by _[Paulo Medeiros](https://www.linkedin.com/in/paulo-medeiros-dev1879/)_
+
+## :page_with_curl: Sobre
 Nesse projeto foi criado uma aplicação sobre missões espaciais utilizando React, Jest, CSS e JavaScript.
 
-## Desempenho:
-O projeto System Solar foi desenvolvido por Paulo Medeiros durante o curso de Desenvolvimento Web na Trybe! Foi adquirido 100% do projeto total.
+## :man_technologist: Habilidades desenvolvidas
 
-## Como utilizar:
-Clone o repositório: git@github.com:PauloMedeiros1879/Project-Solar-System.git
+- React
+- Jest
+- Javascript
+- CSS
 
-Acesse a pasta do repositório clonado.
+## :hammer_and_wrench: Ferramentas Utilizadas
 
-Rode o comando npm install para instalar as dependências do projeto e npm start para visualizar no navegador.
+* JavaScript
+* CSS
+
+## ⚙️ Como Executar
+Clone o repositório em uma pasta de preferência
+
+```
+ git@github.com:PauloMedeiros1879/Project-Solar-System.git
+```
+
+Entre na pasta que você acabou de clonar, e instale as dependencias
+```
+npm install
+```
+Para rodar o projeto no navegador, basta utilizar o codigo abaixo
+```
+npm start
+```
