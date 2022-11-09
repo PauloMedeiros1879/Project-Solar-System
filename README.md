@@ -1,4 +1,4 @@
-# Projeto System Solar
+# System Solar
 ###### by _[Paulo Medeiros](https://www.linkedin.com/in/paulo-medeiros-dev1879/)_
 
 ## :page_with_curl: Sobre
