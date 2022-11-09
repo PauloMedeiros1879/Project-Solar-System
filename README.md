@@ -11,11 +11,6 @@ Nesse projeto foi criado uma aplicação sobre missões espaciais utilizando Rea
 - Javascript
 - CSS
 
-## :hammer_and_wrench: Ferramentas Utilizadas
-
-* JavaScript
-* CSS
-
 ## ⚙️ Como Executar
 Clone o repositório em uma pasta de preferência
 
